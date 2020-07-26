@@ -14,10 +14,10 @@ An online tool to run Liquid code snippet. - Build by [Bravo Yeung](https://geek
 We offer two UIs for the tool to run your **liquid code snippet**.
 - [Run liquid](https://geekplayers.com/run-liquild-online.html)
 
-![basic-static](//cdn.jsdelivr.net/gh/yanglr/RunLiquidOnline/screenshots/basic-screen1.png)
+![basic-static](https://cdn.jsdelivr.net/gh/yanglr/RunLiquidOnline/screenshots/basic-screen1.png)
 
 - [Run liquid Pro](https://geekplayers.com/run-liquild-online-pro.html)
 
-![static](//cdn.jsdelivr.net/gh/yanglr/RunLiquidOnline/screenshots/pro-screen.png)
+![static](https://cdn.jsdelivr.net/gh/yanglr/RunLiquidOnline/screenshots/pro-screen.png)
 
-![animate](//cdn.jsdelivr.net/gh/yanglr/RunLiquidOnline/screenshots/pro-screen-animate.gif)
+![animate](https://cdn.jsdelivr.net/gh/yanglr/RunLiquidOnline/screenshots/pro-screen-animate.gif)
